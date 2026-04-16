@@ -1,4 +1,4 @@
-![logo](https://github.com/workhafsa96-byte/workhafsa96-byte2/blob/main/linkin%20banner/Untitled%20design%20(1)%20(2).png)
+ ![logo](https://github.com/workhafsa96-byte/workhafsa96-byte2/blob/main/linkin%20banner/Untitled%20design%20(1)%20(2).png)
 <h1 align="center">Hi 👋, I'm hafsa mubeen</h1>
 <h3 align="center">I am building my coding skills</h3>
 <img align="right" alt="coding" widht="400" src="https://user-images.githubusercontent.com/63107268/235033377-31b23c1d-04b6-42bf-865a-6b6bda4f77ae.gif">
